@@ -4,7 +4,7 @@ baseurl = "https://robotomize.me"
 builddrafts = true
 canonifyurls = false
 languageCode = "en-US"
-
+showcomments = false
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
