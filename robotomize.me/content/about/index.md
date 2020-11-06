@@ -10,4 +10,4 @@ title = "About me"
 showpagemeta = false
 +++
 
-I I live on Sakhalin, work remotely, love the sea:) I am engaged in web development, but recently I work in a game project team and develop multiplayer and other backend services.
+I live on Sakhalin, work remotely, love the sea:) I am engaged in web development, but recently I work in a game project team and develop multiplayer and other backend services. I program in Go, PHP, JavaScript, and sometimes use it node.js, python.
