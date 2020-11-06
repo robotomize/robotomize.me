@@ -10,4 +10,4 @@ title = "About me"
 showpagemeta = false
 +++
 
-I live on Sakhalin, work remotely, love the sea:) I like to invent and most importantly create unusual things, sometimes it turns out. I am engaged in web development, but recently I work in a game project team and develop multiplayer and other backend services.
+I I live on Sakhalin, work remotely, love the sea:) I like to invent and most importantly create strange things, sometimes they even work:) I am engaged in web development, but recently I work in a game project team and develop multiplayer and other backend services.
