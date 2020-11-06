@@ -35,6 +35,7 @@ keywords = ""
 ## Social Accounts
 [params.social]
 github = "robotomize"
+medium = "@robotomize"
 instagram = "robotomize"
 linkedin = "ivanovnikita"
 telegram = "robotomize"
