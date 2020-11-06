@@ -15,7 +15,7 @@ title = "Software developer"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "robotomize" # Comment out to disable Disqus.
+disqusShortname = "" # Comment out to disable Disqus.
 googleAnalytics = ""
 enableRobotsTXT = true
 
