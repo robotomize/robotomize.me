@@ -1,0 +1,62 @@
+## Basic Configuration
+
+baseurl = "https://robotomize.me"
+builddrafts = true
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Ivanov Nikita"
+title = "Software developer"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "robotomize" # Comment out to disable Disqus.
+googleAnalytics = ""
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Ivanov Nikita"
+intro = "software developer"
+description = "I come up with things that sometimes work"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = ""
+keywords = ""
+
+## Social Accounts
+[params.social]
+github = "robotomize"
+instagram = "robotomize"
+linkedin = "ivanovnikita"
+telegram = "robotomize"
+email = "robotomize@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2020. Ivanov Nikita"
+poweredby = false
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 100
+url = "/about/"
+[[menu.main]]
+name = "projects"
+weight = 200
+identifier = "projects"
+url = "/projects/"
