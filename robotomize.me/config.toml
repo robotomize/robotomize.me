@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Ivanov Nikita"
 intro = "software developer"
-description = "I come up with things that sometimes work"
+description = "I build projects, sometimes they work:)"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
