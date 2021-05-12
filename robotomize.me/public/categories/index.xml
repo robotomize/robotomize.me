@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Software developer</title>
+    <title>Categories on Software engineer</title>
     <link>https://robotomize.me/categories/</link>
-    <description>Recent content in Categories on Software developer</description>
+    <description>Recent content in Categories on Software engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Nov 2020 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="https://robotomize.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>about</title>
-      <link>https://robotomize.me/categories/about/</link>
-      <pubDate>Thu, 05 Nov 2020 22:55:05 -0400</pubDate>
-      
-      <guid>https://robotomize.me/categories/about/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

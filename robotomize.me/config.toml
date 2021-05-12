@@ -10,9 +10,9 @@ layoutdir = "layouts"
 publishdir = "public"
 
 author = "Ivanov Nikita"
-title = "Software developer"
+title = "Software engineer"
 
-theme = "hugo-goa"
+theme = "researcher"
 
 ## Hugo Built-in Features
 disqusShortname = "" # Comment out to disable Disqus.
@@ -22,15 +22,15 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Ivanov Nikita"
-intro = "software developer"
+intro = "software engineer"
 description = "I build projects, sometimes they work:)"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
-
+mainSections = ["about"]
 ## Site Meta Settings
 [params.meta]
-description = ""
-keywords = ""
+description = "Software engineer 🧑💻"
+keywords = "Go, golang, PHP, JavaScript, TypeScript"
 
 ## Social Accounts
 [params.social]
@@ -41,23 +41,47 @@ linkedin = "ivanovnikita"
 telegram = "robotomize"
 email = "robotomize@gmail.com"
 
+[params.footer]
+text = "@2021 Ivanov Nikita"
+url = "https://robotomize.me"
+
+[params.style]  # appearance options (can be omitted)
+fontFamily = "Inconsolata"
+pageWidth = "750px"
+avatarSize = "90px"
+colorBlack = "#222222"
+colorRed = "#dc3545"
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/robotomize"
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "E-mail"
+url = "mailto:robotomize@gmail.com"
+
 ## Extras
 [params.extra]
-copyright = "© 2020. Ivanov Nikita"
+copyright = "©2020. Ivanov Nikita"
 poweredby = false
 highlightjs = true
 socialmarkup = true
 toc = true
 displayrssicon = false
 
-## Main Menu
+[permalinks]
+"/" = "/:filename"
+
+[menu]
 [[menu.main]]
-name = "about"
-identifier = "about"
-weight = 100
-url = "/about/"
+name = "About"
+url = "/about"
+weight = 1
+
 [[menu.main]]
-name = "projects"
-weight = 200
-identifier = "projects"
-url = "/projects/"
+name = "Resume"
+url = "/resume"
+weight = 2
+
+[markup.goldmark.renderer]
+unsafe = true

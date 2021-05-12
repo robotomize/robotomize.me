@@ -4,3 +4,9 @@
 [submodule "robotomize.me/themes/hugo-goa"]
 	path = robotomize.me/themes/hugo-goa
 	url = https://github.com/shenoybr/hugo-goa.git
+[submodule "themes/researcher"]
+	path = themes/researcher
+	url = https://github.com/ojroques/hugo-researcher.git
+[submodule "robotomize.me/themes/researcher"]
+	path = robotomize.me/themes/researcher
+	url = https://github.com/ojroques/hugo-researcher.git
