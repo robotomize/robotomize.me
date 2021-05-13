@@ -78,10 +78,6 @@ name = "About"
 url = "/about"
 weight = 1
 
-[[menu.main]]
-name = "Resume"
-url = "/resume"
-weight = 2
 
 [markup.goldmark.renderer]
 unsafe = true
