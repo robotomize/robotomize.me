@@ -12,6 +12,13 @@ Currently using Go. I also use JavaScript/TypeScript, PHP, Python.
 
 I'm inspired by blockchain, machine learning, statistics, gamedev, but I don't have strong skills in those areas.
 
+## Experience
+* Degree in mathematics/computer science from Sakhalin State University.
+* 5+ years combined experience in software development
+* 3+ years of experience in PHP/JavaScript
+* 2-3 years of experience in Go
+* Tiny in TypeScript, Python
+
 ## Indie projects   
 
 [Fliger.io](https://fliger.io) - 🐱‍🚀 An analytical web application for researching youtube comment reactions. The project uses neural networks to study emotional tone, entity extraction, and semantic analysis.
