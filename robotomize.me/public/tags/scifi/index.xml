@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SciFi on Software engineer</title>
+    <link>https://robotomize.me/tags/scifi/</link>
+    <description>Recent content in SciFi on Software engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Oct 2018 18:17:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://robotomize.me/tags/scifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 закона робототехники Азимова — он робот или просто хороший человек?</title>
+      <link>https://robotomize.me/posts/2018-10-04_3-zakona-azimova/</link>
+      <pubDate>Thu, 04 Oct 2018 18:17:28 +0000</pubDate>
+      
+      <guid>https://robotomize.me/posts/2018-10-04_3-zakona-azimova/</guid>
+      <description>Мне нравится читать научную фантастику, которая спустя десятилетия бурного развития технологий все еще актуальна и в этой статье я бы хотел провести параллель между книгой “Я, робот” и разработками в области робототехники. Фантасты часто дают весьма неправдоподобную оценку развития техники во времени часто экстраполируя скорость продвижения в какой-либо области, а “тек” сфера редко развивается линейно и робототехника один из таких примеров, сместился вектор и направление развития, но произведения все же находят отклик в душе из-за весьма заметного пересечения с реальностью на 2018 год.</description>
+    </item>
+    
+    <item>
+      <title>“Основание Азимова” — вам не нужно читать книги Манн Иванов и Фербер — просто читайте Sci-Fi</title>
+      <link>https://robotomize.me/posts/2018-09-28_azimov-osnovanie/</link>
+      <pubDate>Fri, 28 Sep 2018 03:33:01 +0000</pubDate>
+      
+      <guid>https://robotomize.me/posts/2018-09-28_azimov-osnovanie/</guid>
+      <description>В этой небольшой статье есть косвенное упоминание сюжет вилок трилогии, что весьма грустно, если вы не читали произведения, но вы можете на это забить, так как скорее всего не совсем поймете, где я о них упоминаю вскользь.
+За свой месячный отпуск я успел прочитать около 6 книг, и так совпало, что до 27 лет я не был знаком с творчеством Азимова. Эту грустную потерю я решил восполнить благодаря советам друга, а также потому, что я люблю научную фантастику, точнее любил когда-то, но после того, как в моей жизни появилось программирование я старался читать в основном нон-фикшн.</description>
+    </item>
+    
+  </channel>
+</rss>

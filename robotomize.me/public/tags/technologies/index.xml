@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologies on Software engineer</title>
+    <link>https://robotomize.me/tags/technologies/</link>
+    <description>Recent content in Technologies on Software engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Sep 2018 02:55:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://robotomize.me/tags/technologies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Реальная и абстрактная значимость информационных технологий</title>
+      <link>https://robotomize.me/posts/2018-09-21_information-tech-znachimost/</link>
+      <pubDate>Fri, 21 Sep 2018 02:55:51 +0000</pubDate>
+      
+      <guid>https://robotomize.me/posts/2018-09-21_information-tech-znachimost/</guid>
+      <description>Проблема в том что многие программисты верят в значимость информационных технологий и стоит заметить, что обычно те, кто делает всякую “лажу” вроде таких как я. Инженерная культура в программировании постепенно умирает и эта ветвь технологии становится обыденной, и в ней все меньше инноваций, и все больше реноваций. Культура строить крутые и сложные вещи, которые хорошо работают и приносят пользу, заменяются другим главенствующим паттерном, именуемым — экономикой внимания.
+Программисты все реже пишут код, который помогает людям и все чаще тот, который способен перетянуть внимание на себя, не создавая реальной ценности.</description>
+    </item>
+    
+  </channel>
+</rss>

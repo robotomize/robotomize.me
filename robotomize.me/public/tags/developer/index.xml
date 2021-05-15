@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer on Software engineer</title>
+    <link>https://robotomize.me/tags/developer/</link>
+    <description>Recent content in Developer on Software engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Aug 2018 03:24:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://robotomize.me/tags/developer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>“Фантастические твари и где они обитают” — небольшой обзор типов разработчиков</title>
+      <link>https://robotomize.me/posts/2018-08-19_fantastic-creatures-developers/</link>
+      <pubDate>Sun, 19 Aug 2018 03:24:12 +0000</pubDate>
+      
+      <guid>https://robotomize.me/posts/2018-08-19_fantastic-creatures-developers/</guid>
+      <description>Недавно я задумывался об идее сервиса для категоризации разработчиков при найме или уже работающих в существующих командах. Такие системы существуют и гордо именуются директора эйчары. Кого нанимать зависит от типа компании: стартап или корпорация. В первом случае будут эффективны одни наборы программистов, во-втором могут быть совершенно иные, и этот пост про классификации программистов на уровне моих субъективных ощущений, это не упорядочивание уровня джуниор/мидл/сеньор или бекенд/фронтенд/мобайл, — скорее обобщенные образы из комбинации компетенций, вовлеченности, миссии и тд.</description>
+    </item>
+    
+  </channel>
+</rss>

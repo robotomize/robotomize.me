@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Software engineer</title>
+    <link>https://robotomize.me/tags/programming/</link>
+    <description>Recent content in Programming on Software engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Sep 2018 02:55:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://robotomize.me/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Реальная и абстрактная значимость информационных технологий</title>
+      <link>https://robotomize.me/posts/2018-09-21_information-tech-znachimost/</link>
+      <pubDate>Fri, 21 Sep 2018 02:55:51 +0000</pubDate>
+      
+      <guid>https://robotomize.me/posts/2018-09-21_information-tech-znachimost/</guid>
+      <description>Проблема в том что многие программисты верят в значимость информационных технологий и стоит заметить, что обычно те, кто делает всякую “лажу” вроде таких как я. Инженерная культура в программировании постепенно умирает и эта ветвь технологии становится обыденной, и в ней все меньше инноваций, и все больше реноваций. Культура строить крутые и сложные вещи, которые хорошо работают и приносят пользу, заменяются другим главенствующим паттерном, именуемым — экономикой внимания.
+Программисты все реже пишут код, который помогает людям и все чаще тот, который способен перетянуть внимание на себя, не создавая реальной ценности.</description>
+    </item>
+    
+    <item>
+      <title>“Фантастические твари и где они обитают” — небольшой обзор типов разработчиков</title>
+      <link>https://robotomize.me/posts/2018-08-19_fantastic-creatures-developers/</link>
+      <pubDate>Sun, 19 Aug 2018 03:24:12 +0000</pubDate>
+      
+      <guid>https://robotomize.me/posts/2018-08-19_fantastic-creatures-developers/</guid>
+      <description>Недавно я задумывался об идее сервиса для категоризации разработчиков при найме или уже работающих в существующих командах. Такие системы существуют и гордо именуются директора эйчары. Кого нанимать зависит от типа компании: стартап или корпорация. В первом случае будут эффективны одни наборы программистов, во-втором могут быть совершенно иные, и этот пост про классификации программистов на уровне моих субъективных ощущений, это не упорядочивание уровня джуниор/мидл/сеньор или бекенд/фронтенд/мобайл, — скорее обобщенные образы из комбинации компетенций, вовлеченности, миссии и тд.</description>
+    </item>
+    
+  </channel>
+</rss>

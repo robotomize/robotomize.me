@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robots on Software engineer</title>
+    <link>https://robotomize.me/tags/robots/</link>
+    <description>Recent content in Robots on Software engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Oct 2018 18:17:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://robotomize.me/tags/robots/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 закона робототехники Азимова — он робот или просто хороший человек?</title>
+      <link>https://robotomize.me/posts/2018-10-04_3-zakona-azimova/</link>
+      <pubDate>Thu, 04 Oct 2018 18:17:28 +0000</pubDate>
+      
+      <guid>https://robotomize.me/posts/2018-10-04_3-zakona-azimova/</guid>
+      <description>Мне нравится читать научную фантастику, которая спустя десятилетия бурного развития технологий все еще актуальна и в этой статье я бы хотел провести параллель между книгой “Я, робот” и разработками в области робототехники. Фантасты часто дают весьма неправдоподобную оценку развития техники во времени часто экстраполируя скорость продвижения в какой-либо области, а “тек” сфера редко развивается линейно и робототехника один из таких примеров, сместился вектор и направление развития, но произведения все же находят отклик в душе из-за весьма заметного пересечения с реальностью на 2018 год.</description>
+    </item>
+    
+  </channel>
+</rss>

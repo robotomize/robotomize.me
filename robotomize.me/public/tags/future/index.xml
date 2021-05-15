@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future on Software engineer</title>
+    <link>https://robotomize.me/tags/future/</link>
+    <description>Recent content in Future on Software engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 May 2018 02:33:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://robotomize.me/tags/future/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google duplex и кожаные ублюдки</title>
+      <link>https://robotomize.me/posts/2018-05-14_google-duplex/</link>
+      <pubDate>Mon, 14 May 2018 02:33:35 +0000</pubDate>
+      
+      <guid>https://robotomize.me/posts/2018-05-14_google-duplex/</guid>
+      <description>Вот так и учатся машины. Если вкратце, то скоро мы будем звонить и общаться с роботами голосом, чтобы автоматизировать многие вещи. Многие думают, что революция в роботостроении, но это популярное и на мой взгляд ошибочное заблуждение. Роботы лишь форма, в сущности инженеры работают над вполне физическими проблемами, но даже на этом уровне ясно, что основная проблема роботов в их скудности восприятия объектов реального мира. Без машинного обучения и нейросетей машины остаются подобием игрушки в одних вещах и современной фабрикой в других.</description>
+    </item>
+    
+  </channel>
+</rss>
