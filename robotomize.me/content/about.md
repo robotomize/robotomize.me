@@ -21,9 +21,9 @@ I'm inspired by blockchain, machine learning, statistics, gamedev, but I don't h
 
 ## Indie projects   
 
-[Fliger.io](https://fliger.io) - 🐱‍🚀 An analytical web application for researching youtube comment reactions. The project uses neural networks to study emotional tone, entity extraction, and semantic analysis.
+[Fliger.io](/fliger) - 🐱‍🚀 An analytical web application for researching youtube comment reactions. The project uses neural networks to study emotional tone, entity extraction, and semantic analysis. This is a demo, it works with real data, but is limited to functions, code optimization, etc. Development is suspended.
 
-**Technology stack:** Go, Mongodb, ClickHouse, gRPC, Python, Flask, Vue.js, Bulma
+**Technology stack:** Go, Mongodb, ClickHouse, gRPC, Python, Flask, JavaScript, Vue.js, Bulma
 
 ---
 
@@ -33,9 +33,19 @@ I'm inspired by blockchain, machine learning, statistics, gamedev, but I don't h
 
 ---
 
-[Bloops](https://bloops.fun) - What is bloopsbot? 🤖 This is a telegram bot created to organize offline games similar to tiktok quizzes
+[Bloops](/bloops) - What is bloopsbot? 🤖 This is a telegram bot created to organize offline games similar to tiktok quizzes
 
-**Technology stack:** Go, telegram, bboltdb
+
+**Technology stack:** Go, Telegram api, bboltdb
+
+---
+
+[Roxe.me](/roxeme) - A platform for running and creating small quizzes and quests in real-time.
+
+
+**Technology stack:** Go, Websocket, MongoDB, ClickHouse, Redis, JavaScript, Vue.js, Bulma, NATS
+
+---
 
 ## Profiles
 * Github: [@robotomize](https://github.com/robotomize)

@@ -79,10 +79,9 @@ url = "/about"
 weight = 1
 
 [[menu.main]]
-name = "Русские посты"
+name = "Импорт с медиума"
 url = "/posts"
 weight = 2
-
 
 [markup.goldmark.renderer]
 unsafe = true
