@@ -4,17 +4,13 @@ title = "Bloops"
 
 # Bloops
 
-
-## Site
-[Bloops.fun](https://bloops.fun)
-
-## What is bloopsbot?
-
 This is a telegram bot 🤖 for organizing quizzes similar to quizzes in tiktok, where you need to
 30 seconds name a few words from the proposed categories at a random letter. The bot is organizing, counting points, and you play with your friends
 
 ## Location
-You can use it here -> [bloops in Telegram](https://t.me/bloops_bot)
+[bloops in Telegram](https://t.me/bloops_bot)
+
+[Web page for russian users](https://bloops.fun)
 
 ## Why?
 🎄🎄🎄 The project was created for playing with the family during the holidays. This is just fun

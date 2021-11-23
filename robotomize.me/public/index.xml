@@ -181,8 +181,8 @@ P.P.S Я уже давно заметил одну особенность, чт�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robotomize.me/about/</guid>
-      <description>About Me  Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools. I also tried a little bit to develop the game multiplayer on UDP
- 👨‍💻 I currently use Go and I love it! 🌱 I like learning Dart and developing tiny projects in Python 🔭 I&amp;rsquo;m looking at Rust 😈 Previously, I used PHP and JavasScript 👽 Also, I did a little work on Node.</description>
+      <description>About Me  Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools
+ 👨‍💻 I currently use Go and I love it! 🌱 I like learning Dart and developing tiny projects in Python 🔭 I&amp;rsquo;m looking at Rust 😈 Previously, I used PHP and JavasScript 👽 Also, I did a little work on Node.js and TypeScript 👻 A long time ago, when mammoths walked the earth 😂, I did a little development in Perl and C# It&amp;rsquo;s horrifying now Twiilog ⚡ Fun facts: 🕺 👨‍💻 🤘 📖 🏂  Experience  Degree in mathematics/computer science from Sakhalin State University.</description>
     </item>
     
     <item>
@@ -191,10 +191,10 @@ P.P.S Я уже давно заметил одну особенность, чт�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robotomize.me/bloops/</guid>
-      <description>Bloops Site Bloops.fun
-What is bloopsbot? This is a telegram bot 🤖 for organizing quizzes similar to quizzes in tiktok, where you need to 30 seconds name a few words from the proposed categories at a random letter. The bot is organizing, counting points, and you play with your friends
-Location You can use it here -&amp;gt; bloops in Telegram
-Why? 🎄🎄🎄 The project was created for playing with the family during the holidays.</description>
+      <description>Bloops This is a telegram bot 🤖 for organizing quizzes similar to quizzes in tiktok, where you need to 30 seconds name a few words from the proposed categories at a random letter. The bot is organizing, counting points, and you play with your friends
+Location bloops in Telegram
+Web page for russian users
+Why? 🎄🎄🎄 The project was created for playing with the family during the holidays. This is just fun</description>
     </item>
     
     <item>
@@ -203,9 +203,8 @@ Why? 🎄🎄🎄 The project was created for playing with the family during the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robotomize.me/fliger/</guid>
-      <description>Fliger.io What is fliger? Fliger.io - 🐱‍🚀 An analytical web application for researching youtube comment reactions. The project uses neural networks to study emotional tone, entity extraction, and semantic analysis. This is a demo, it works with real data, but is limited to feature, code optimization, etc. Development is suspended
-Tech Stack Technology stack: Go, Mongodb, ClickHouse, gRPC, Python, Flask, Vue.js, Bulma
-How it works? Fliger works very simply. After a quick login, the user can search or analyze media by link.</description>
+      <description>Fliger Fliger is a project I came up with by accident and developed a prototype in 3 days. In 2019 we developed a demo version during a month-long vacation with Polina Galanina, which we showed to friends in the blogging community. The project was frozen due to lack of ideas for monetization and further development.
+What is fliger.io? Fliger.io - 🐱‍🚀 An analytical web application for researching youtube comment reactions. The project uses neural networks to study emotional tone, entity extraction, and semantic analysis.</description>
     </item>
     
     <item>
@@ -214,9 +213,9 @@ How it works? Fliger works very simply. After a quick login, the user can search
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robotomize.me/roxeme/</guid>
-      <description>Roxe.me Intro Roxe.me is not my personal project, it is a mini startup within a company(Sakh.com). I was its author and full stack developer.
-What is Roxe.me? It is a platform for small casual multiplayer games. On it you could quickly run real-time quizzes, non-linear quests. Worked a small chat room and reward system for users. At the moment, the project is closed because it has not exploded.
-Tech Stack Technology: Go, Websocket, MongoDB, ClickHouse, Redis, JavaScript, Vue.</description>
+      <description>Roxe.me Roxe.me is a project that I headed when I worked at sakh.com. It is a project of a platform of small casual games which was not destined to become a success. This project was made with love, also it was the beginning of my way as a Go developer.
+The service was developed by me together with the designer Polina Galanina
+What is Roxe.me? It is a platform for small casual multiplayer games.</description>
     </item>
     
   </channel>

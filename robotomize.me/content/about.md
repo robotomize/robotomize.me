@@ -5,7 +5,7 @@
 
 {{< figure class="avatar" src="/img/headshot.jpg" alt="avatar">}}
 
-Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools. I also tried a little bit to develop the game multiplayer on UDP
+Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools
 
 - 👨‍💻 I currently use Go and I love it!
 - 🌱 I like learning Dart and developing tiny projects in Python
@@ -26,40 +26,38 @@ Software engineer 🧑💻. I have experience in creating web services, telegram
 ## Indie projects
 
 [Fliger.io](/fliger) - 🐱‍🚀 An analytical web application for researching youtube comment reactions. The project uses
-neural networks to study emotional tone, entity extraction, and semantic analysis. This is a demo, it works with real
-data, but is limited to functions, code optimization, etc. Development is suspended.
+neural networks to study emotional tone, entity extraction, and semantic analysis
 
 **Technology stack:** Go, Mongodb, ClickHouse, gRPC, Python, Flask, JavaScript, Vue.js, Bulma
 
 ---
 
-[Bloops](/bloops) - What is bloopsbot? 🤖 This is a telegram bot created to organize offline games similar to tiktok
-quizzes
+[Bloops](/bloops) - What is bloopsbot? 🤖 This is a telegram bot created to organize offline quizzes
 
 **Technology stack:** Go, bboltdb
 
 ---
 
-[Cribe](https://github.com/robotomize/cribe) - is a telegram bot for downloading youtube videos. You just send a link to
-the bot and it uploads the video to Telegram
+[Cribe](https://t.me/cribe_bot) - is a telegram bot for downloading youtube videos. You just send a link to
+the bot and it uploads the video to Telegram. [Cribe on github](https://github.com/robotomize/cribe)
 
 **Technology stack:** Go, PostgreSQL, Redis, RabbiMQ
 
 ---
 
-[Ohmytime-bot](https://github.com/robotomize/ohmytime-bot) - Get the local time in the selected location. Often you need
+[Ohmytime-bot](https://t.me/ohmytime_bot) - Get the local time in the selected location. Often you need
 to quickly see the local time in the city. This is a telegram bot that solves this problem. Just send him the name of
-the city or location and he will send you the local time
+the city or location and he will send you the local time. [Ohmytime on github](https://github.com/robotomize/ohmytime-bot)
 
 **Technology stack:** Go, Bleve - full text search lib
 
-## Special case
+## Not a success story...
 
-[Roxe.me](/roxeme) - A platform for running and creating small quizzes and quests in real-time.
+[Roxe.me](/roxeme) - It is a platform for small casual multiplayer games
 
-**Technology stack:** Go, Websocket, MongoDB, ClickHouse, Redis, JavaScript, Vue.js, Bulma, NATS
+**Technology stack:** Go, Websocket, MongoDB, Redis, JavaScript, Vue.js, Bulma
 
-## My open source contributions
+## Open source activity
 
 
 [SOD](https://github.com/robotomize/sod) - 🥷 Service with built-in database to recognize anomalies in vector data in
@@ -72,8 +70,7 @@ them on Go
 
 ---
 
-[Youtube](https://github.com/kkdai/youtube) - This package is a Youtube video download package, for more detail
-refer https://github.com/ytdl-org/youtube-dl for more download options.
+[kkdai/youtube](https://github.com/kkdai/youtube) - This package is a Youtube video download package
 
 ---
 
