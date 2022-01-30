@@ -10,7 +10,7 @@ This is a telegram bot 🤖 for organizing quizzes similar to quizzes in tiktok,
 ## Location
 [bloops in Telegram](https://t.me/bloops_bot)
 
-[Web page for russian users](https://bloops.fun)
+[Web page for russian users](https://bloops.ru)
 
 ## Why?
 🎄🎄🎄 The project was created for playing with the family during the holidays. This is just fun
