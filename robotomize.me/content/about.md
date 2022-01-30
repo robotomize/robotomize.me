@@ -21,43 +21,42 @@ Software engineer 🧑💻. I have experience in creating web services, telegram
 * Degree in mathematics/computer science from Sakhalin State University.
 * 5+ years combined experience in software development
 * 3+ years of experience in PHP/JavaScript
-* 2-3 years of experience in Go
+* 3+ years of experience in Go
 
 ## Indie projects
 
 [Fliger.io](/fliger) - 🐱‍🚀 An analytical web application for researching youtube comment reactions. The project uses
 neural networks to study emotional tone, entity extraction, and semantic analysis
 
-**Technology stack:** Go, Mongodb, ClickHouse, gRPC, Python, Flask, JavaScript, Vue.js, Bulma
+Go, Mongodb, gRPC, Python/Flask, JavaScript/Vue.js
 
 ---
 
 [Bloops](/bloops) - What is bloopsbot? 🤖 This is a telegram bot created to organize offline quizzes
 
-**Technology stack:** Go, bboltdb
+Go, bboltdb
 
 ---
 
 [Cribe](https://t.me/cribe_bot) - is a telegram bot for downloading youtube videos. You just send a link to
 the bot and it uploads the video to Telegram. [Cribe on github](https://github.com/robotomize/cribe)
 
-**Technology stack:** Go, PostgreSQL, Redis, RabbiMQ
+Go, PostgreSQL, Redis, RabbiMQ, Telegram proxy
 
 ---
 
-[Ohmytime-bot](https://t.me/ohmytime_bot) - Get the local time in the selected location. Often you need
-to quickly see the local time in the city. This is a telegram bot that solves this problem. Just send him the name of
+[Ohmytime-bot](https://t.me/ohmytime_bot) - Get the local time in the selected location. Just send him the name of
 the city or location and he will send you the local time. [Ohmytime on github](https://github.com/robotomize/ohmytime-bot)
 
-**Technology stack:** Go, Bleve - full text search lib
+Go, Bleve
 
-## Not a success story...
+---
 
-[Roxe.me](/roxeme) - It is a platform for small casual multiplayer games
+[Roxe.me](/roxeme) - a service for launching mini games, quizzes and quests
 
-**Technology stack:** Go, Websocket, MongoDB, Redis, JavaScript, Vue.js, Bulma
+Go, Websocket, MongoDB, Redis, JavaScript/Vue.js
 
-## Open source activity
+## Open source
 
 
 [SOD](https://github.com/robotomize/sod) - 🥷 Service with built-in database to recognize anomalies in vector data in
