@@ -45,7 +45,7 @@ Go, PostgreSQL, Redis, RabbiMQ, Telegram proxy
 
 ---
 
-[Ohmytime-bot](https://t.me/ohmytime_bot) - Get the local time in the selected location. Just send him the name of
+[Ohmytime-bot](https://t.me/ohmytimebot) - Get the local time in the selected location. Just send him the name of
 the city or location and he will send you the local time. [Ohmytime on github](https://github.com/robotomize/ohmytime-bot)
 
 Go, Bleve
