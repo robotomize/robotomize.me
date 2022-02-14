@@ -52,7 +52,7 @@ Go, Bleve
 
 ---
 
-[t2r-bot](https://t.me/torrelaysbot) - Get tor relays 
+[t2r-bot](https://t.me/t2relays_bot) - Get tor relays 
 [t2r-bot on github](https://github.com/robotomize/t2r-bot)
 [t2r on github](https://github.com/robotomize/t2r)
 
