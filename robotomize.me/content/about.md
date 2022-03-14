@@ -14,7 +14,7 @@ Software engineer 🧑💻. I have experience in creating web services, telegram
 - 👽 Also, I did a little work on Node.js and TypeScript
 - 👻 A long time ago, when mammoths walked the earth 😂, I did a little development in Perl and C#  It's horrifying
   now [Twiilog](https://github.com/robotomize/twiilog)
-- ⚡ Fun facts: 🕺 👨‍💻 🤘 📖 🏂
+- ⚡ Fun facts: 🕺 👨‍💻 🤘 📖 🏂 🎸 and running a small telegram channel in Russian [ШД - шутки за доллар](https://t.me/dollar_jokes)
 
 ## Experience
 
