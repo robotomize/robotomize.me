@@ -60,7 +60,11 @@ Python
 
 ---
 
+[MyPass](https://github.com/pollylab/mypass-cli) - simple cli password manager. In progress
 
+Go
+
+---
 [Roxe.me](/roxeme) - a service for launching mini games, quizzes and quests
 
 Go, Websocket, MongoDB, Redis, JavaScript/Vue.js
