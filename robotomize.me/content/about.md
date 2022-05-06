@@ -19,7 +19,7 @@ Software engineer 🧑💻. I have experience in creating web services, telegram
 ## Experience
 
 * Degree in mathematics/computer science from Sakhalin State University.
-* 5+ years combined experience in software development
+* 6+ years combined experience in software development
 * 3+ years of experience in PHP/JavaScript
 * 3+ years of experience in Go
 
@@ -45,14 +45,13 @@ Go, PostgreSQL, Redis, RabbiMQ, Telegram proxy
 
 ---
 
-[Ohmytime-bot](https://t.me/ohmytimebot) - Get the local time in the selected location. Just send him the name of
-the city or location and he will send you the local time. [Ohmytime on github](https://github.com/robotomize/ohmytime-bot)
+[Ohmytime-bot](https://t.me/ohmytimebot) - is a telegram bot for getting local time in location [Ohmytime on github](https://github.com/robotomize/ohmytime-bot)
 
 Go, Bleve
 
 ---
 
-[t2r-bot](https://t.me/t2relays_bot) - Get tor relays 
+[t2r-bot](https://t.me/t2relays_bot) - is a telegram bot for getting tor relays 
 [t2r-bot on github](https://github.com/robotomize/t2r-bot)
 [t2r on github](https://github.com/robotomize/t2r)
 
@@ -64,6 +63,7 @@ Python
 
 Go
 
+
 ---
 [Roxe.me](/roxeme) - a service for launching mini games, quizzes and quests
 
@@ -71,6 +71,10 @@ Go, Websocket, MongoDB, Redis, JavaScript/Vue.js
 
 ## Open source
 
+[go-ratelimiter](https://github.com/robotomize/go-ratelimiter) - A super easy rate limiting package for Go. Package provide Store interface, 
+for which you can use your own implementations
+
+--
 
 [SOD](https://github.com/robotomize/sod) - 🥷 Service with built-in database to recognize anomalies in vector data in
 real time. The project uses the LOF+KDtree machine learning algorithm, which does not require pre-training.
