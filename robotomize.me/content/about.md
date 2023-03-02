@@ -19,11 +19,18 @@ Software engineer 🧑💻. I have experience in creating web services, telegram
 ## Experience
 
 * Degree in mathematics/computer science from Sakhalin State University.
-* 6+ years combined experience in software development
+* 7+ years combined experience in software development
 * 3+ years of experience in PHP/JavaScript
-* 3+ years of experience in Go
+* 4+ years of experience in Go
 
 ## Indie projects
+
+[elka.space](https://elka.space) - elka.space is a holiday game for New Year's Eve 2022. You have to play wordle with hints. If you play successfully your Christmas tree grows and gets dressed up.
+
+Go, Postgres, Mongodb, redis, websocket, openapi3, TypeScript/React
+
+---
+
 
 [Fliger.io](/fliger) - 🐱‍🚀 An analytical web application for researching youtube comment reactions. The project uses
 neural networks to study emotional tone, entity extraction, and semantic analysis
@@ -58,45 +65,13 @@ Go, Bleve
 Python
 
 ---
-
-[MyPass](https://github.com/pollylab/mypass-cli) - simple cli password manager. In progress
-
-Go
-
-
----
 [Roxe.me](/roxeme) - a service for launching mini games, quizzes and quests
 
 Go, Websocket, MongoDB, Redis, JavaScript/Vue.js
 
 ## Open source
 
-[go-ratelimiter](https://github.com/robotomize/go-ratelimiter) - A super easy rate limiting package for Go. Package provide Store interface, 
-for which you can use your own implementations
-
---
-
-[SOD](https://github.com/robotomize/sod) - 🥷 Service with built-in database to recognize anomalies in vector data in
-real time. The project uses the LOF+KDtree machine learning algorithm, which does not require pre-training.
-
----
-
-[Gokuu](https://github.com/robotomize/gokuu) - Gokuu is a library for getting up-to-date exchange rates and converting
-them on Go
-
----
-
-[kkdai/youtube](https://github.com/kkdai/youtube) - This package is a Youtube video download package
-
----
-
-[Koa2-useragent](https://github.com/robotomize/koa2-useragent) - Koa2.js middleware for useragent detection
-
----
-
-[Regression-php](https://github.com/robotomize/regression-php) - Implementation of model building for regression
-
----
+[@robotomize](https://github.com/robotomize) - my account on github
 
 ## Profiles
 
